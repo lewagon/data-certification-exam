@@ -1,7 +1,12 @@
 *.csv
 *.sqlite
-*.ipynb_checkpoint
+.ipynb_checkpoints
+__pycache__
 .DS_Store
+.vscode
+.pytest_cache/
+*.egg-info/
+*.egg
 *_big.pickle
 *_big
 paintings
