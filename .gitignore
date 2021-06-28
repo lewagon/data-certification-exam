@@ -2,3 +2,5 @@
 *.sqlite
 *.ipynb_checkpoint
 .DS_Store
+*_big.pickle
+*_big
